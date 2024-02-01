@@ -1,13 +1,25 @@
 ## Hi there 👋
+- Estudiante de Ing. en Sistemas Computacionales
+- 22 años con ganas de aprender
 
 I really like the frontend pero me gusta aprender ambas ramas. 🕺🏽
 
-**I love working with**
+- Ingles Intermedio
+
+**Habilidades y pasatiempo:**
+
+  -Edicion de videos y fotos
+
+
+**I love working with:**
 
 <div display="flex">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge&logo=FLUTTER&labelColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge&logo=FLUTTER&labelColor=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&labelColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   
   
   
@@ -21,29 +33,11 @@ I really like the frontend pero me gusta aprender ambas ramas. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  
 </div>
 
-### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
 
-### 📫 How to reach me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
