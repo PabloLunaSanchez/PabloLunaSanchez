@@ -5,6 +5,7 @@ I really like the frontend pero me gusta aprender ambas ramas. 🕺🏽
 **I love working with**
 
 <div display="flex">
+  ![Static Badge](https://img.shields.io/badge/FLUTTER-blue)
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
